@@ -1,7 +1,7 @@
 ### Hi there 👋 You can call me DJ
 <hr>
 
-My non-traditional journey into development:👇🏽
+My non-traditional journey into development:👇🏽 
 B.A Economics -> Cancer Diagnostic Lab Technician -> Self-Learner/BootCamp Grad -> Software Development
 
 Currently Learning: TypeScript, SASS, Angular
@@ -23,7 +23,7 @@ Besides Coding, I like to dance (choreography)💃 play basketball⛹🏽‍♂�
 ### Here is Contact Info
 <hr>
 
-https://www.linkedin.com/in/daniel-catan/
+[LinkedIn](https://www.linkedin.com/in/daniel-catan/)
 <!--
 **dcatan89/dcatan89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
