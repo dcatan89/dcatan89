@@ -3,7 +3,7 @@
 
 My non-traditional journey into development:👇🏽 
 B.A Economics -> Cancer Diagnostic Lab Technician -> Self-Learner/BootCamp Grad -> Software Development
-
+<hr>
 Currently Learning: TypeScript, SASS, Angular
 My Stack: React, JavaScript, CSS3, HTML, NODE.js, Express, PostgresQL
 Tools: npm, Babel, webpack, Git, GitHub, Slack
@@ -20,7 +20,7 @@ I am eager to learn and try to stop myself from having shiny object syndrome whe
 Besides Coding, I like to dance (choreography)💃 play basketball⛹🏽‍♂️, and exercise🏋️. You can either catch me at the gym or the coffee shop.
 
 
-### Here is Contact Info
+### Here is My Contact Info
 <hr>
 
 [LinkedIn](https://www.linkedin.com/in/daniel-catan/)
