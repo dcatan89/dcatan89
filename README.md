@@ -22,7 +22,7 @@ I know React, JavaScript, CSS3, HTML, NODE.js, Express, PostgresQL and still hav
   
 I am eager to learn and try to stop myself from having shiny object syndrome when it comes to new technologies... for the most part. I continue to expand my understanding everyday hoping to gain something new or solidify what I know.  
   
-Besides Coding, I like to dance (choreography)💃 play basketball⛹🏽‍♂️, and exercise🏋️. You can either catch me at the gym or the coffee shop.  
+Besides Coding, I like to dance (choreography)💃 , play basketball⛹🏽‍♂️, or exercise🏋️. You can either catch me at the gym or the coffee shop.  
 
   
 ### Here is My Contact Info
