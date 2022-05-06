@@ -6,10 +6,10 @@ B.A Economics -> Cancer Diagnostic Lab Technician -> Self-Learner/BootCamp Grad 
   
 <hr>  
   
-Currently Learning: TypeScript, SASS, Angular. 
-My Stack: React, JavaScript, CSS3, HTML, NODE.js, Express, PostgresQL. 
-Tools: npm, Babel, webpack, Git, GitHub, Slack. 
-What I want learn: Everything and anything. 
+Currently Learning: TypeScript, SASS, Angular.  
+My Stack: React, JavaScript, CSS3, HTML, NODE.js, Express, PostgresQL.  
+Tools: npm, Babel, webpack, Git, GitHub, Slack.  
+What I want learn: Everything and anything.  
   
 <hr>
   
