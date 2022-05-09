@@ -29,6 +29,7 @@ Besides Coding, I like to dance (choreography)💃 , play basketball⛹🏽‍�
 <hr>
 
 [LinkedIn](https://www.linkedin.com/in/daniel-catan/)
+Email: danieljcatan@gmail.com
 <!--
 **dcatan89/dcatan89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
