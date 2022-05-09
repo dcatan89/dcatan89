@@ -20,7 +20,7 @@ Im Daniel Catan, however I go by DJ and Im a recent bootcamp graduate looking to
 I know React, JavaScript, CSS3, HTML, NODE.js, Express, PostgresQL and still have tons to learn and explore.  
 
   
-I am eager to learn and try to stop myself from having shiny object syndrome when it comes to new technologies... for the most part. I continue to expand my understanding everyday hoping to gain something new or solidify what I know.  
+I would say I am eager to learn as I am always thinking of what new technologies I can implement in my projects. I continue to expand my understanding everyday hoping to gain something new or solidify what I know.  
   
 Besides Coding, I like to dance (choreography)💃 , play basketball⛹🏽‍♂️, or exercise🏋️. You can either catch me at the gym or the coffee shop.  
 
