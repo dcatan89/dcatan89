@@ -28,7 +28,7 @@ Besides Coding, I like to dance (choreography)💃 , play basketball⛹🏽‍�
 ### Here is My Contact Info
 <hr>
 
-[Resume](https://www.linkedin.com/in/daniel-catan/overlay/1635490147677/single-media-viewer/)
+[Resume](https://drive.google.com/file/d/1a4QjmmeIdK7hoquK9uePaDOtdkYLMS65/view?usp=sharing)
 
 
 [LinkedIn](https://www.linkedin.com/in/daniel-catan/)  
