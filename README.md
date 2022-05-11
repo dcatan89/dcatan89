@@ -1,20 +1,18 @@
-### Hi there 👋 You can call me DJ
-<hr>
+## Hi there 👋 You can call me DJ
   
 My non-traditional journey into development:👇🏽  
-B.A Economics -> Cancer Diagnostic Lab Technician -> Self-Learner/BootCamp Grad -> Software Development\
-  
-<hr>  
-  
+B.A Economics -> Cancer Diagnostic Lab Technician -> Self-Learner/BootCamp Grad -> Software Development  
+
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dcatan89?cardType=level&theme=react&Border=17A4DD)](https://git.io/awesome-stats-card)
+ 
+ ## 🧑‍💻
 Currently Learning: TypeScript, SASS, Angular.  
 My Stack: React, JavaScript, CSS3, HTML, NODE.js, Express, PostgresQL.  
 Tools: npm, Babel, webpack, Git, GitHub, Slack.  
 What I want learn: Everything and anything.  
   
-<hr>
   
-### About Me 👀
-<hr>
+## About Me 👀
   
 Im Daniel Catan, however I go by DJ and Im a recent bootcamp graduate looking to be part of a team as a software developer.  
 I know React, JavaScript, CSS3, HTML, NODE.js, Express, PostgresQL and still have tons to learn and explore.  
